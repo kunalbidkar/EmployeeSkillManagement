@@ -2,10 +2,7 @@ package com.xp.employee.model;
 
 import org.springframework.stereotype.Component;
 
-/**
- * @author Dnyaneshwar
- *
- */
+
 
 @Component
 public class Skill {

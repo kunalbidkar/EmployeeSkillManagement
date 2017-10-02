@@ -7,10 +7,7 @@ import java.util.Date;
 
 import org.springframework.stereotype.Component;
 
-/**
- * @author Madhav
- *
- */
+
 @Component
 public class Employee {
 
